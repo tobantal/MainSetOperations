@@ -3,7 +3,6 @@ package MainSetOperations;
 import java.util.Set;
 import java.util.HashSet;
 import java.util.Iterator;
-import java.util.Arrays;
 
 public class MainSetOperations {
     public static <T> Set<T> union(Set<T> a, Set<T> b) {
